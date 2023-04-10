@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CalvinJC19
 - 👀 I’m interested in Engineering
 - 🌱 I’m currently learning Electrical Engineering
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: calvin.canterbury@icloud.com
 
 <!---
